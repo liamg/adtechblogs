@@ -1,5 +1,5 @@
 
-#The Best Ad Tech Blogs
+# The Best Ad Tech Blogs
 
 * [Ad Exchanger](http://adexchanger.com/) - Ad tech industry overview
 * [Exchange Wire](https://www.exchangewire.com/) - Ad tech industry overview
